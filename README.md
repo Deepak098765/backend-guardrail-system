@@ -1,5 +1,7 @@
 # Backend Guardrail System
 
+Production-grade Spring Boot backend implementing Redis-based concurrency protection, cooldown guardrails, notification batching, and distributed atomic counters.
+
 ## 1. Project Overview
 
 This project is a production-style Spring Boot backend system designed to simulate a high-performance API gateway and AI interaction guardrail engine.
