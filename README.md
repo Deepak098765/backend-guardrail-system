@@ -286,7 +286,7 @@ services:
 ## Step 1 — Clone Repository
 
 ```bash
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/Deepak098765/backend-guardrail-system)
 ```
 
 ## Step 2 — Start Docker Containers
